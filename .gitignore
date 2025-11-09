@@ -1,0 +1,18 @@
+# Python environment folders
+myenv/
+venv/
+__pycache__/
+*.pyc
+
+# Environment variables
+.env
+*.env
+
+# IDE and OS files
+.DS_Store
+.vscode/
+.idea/
+
+# Logs and checkpoints
+*.log
+*.ipynb_checkpoints
